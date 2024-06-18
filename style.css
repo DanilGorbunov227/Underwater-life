@@ -1,25 +1,25 @@
 body {
-  font-family: arial;
+  font-family: sans-serif;
   text-align: center;
 }
 header {
-  background:SkyBlue;
   font-size:20px;
+  background:SkyBlue;
 }
 header img {
   width:70px;
   height:70px;
 }
 header a {
+ padding:3px;
  text-decoration:none;
  border-radius: 10px;
  border:1px solid black;
- padding:3px;
  background:white;
 }
 h1 {
   font-size:50px;
-  color:SlateBlue
+  color:SlateBlue;
 }
 h2 {
   font-size:40px;
@@ -35,8 +35,8 @@ footer {
 main p {
   font-size:27px;
   border:2px solid MediumBlue;
-  background:DeepSkyBlue;
   border-radius:25px;
+  background:DeepSkyBlue;
 }
 main a {
  text-decoration:none;
