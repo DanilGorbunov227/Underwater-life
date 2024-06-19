@@ -37,12 +37,11 @@ footer {
 main p {
   font-size:27px;
   border:2px solid RoyalBlue;
-  border-radius:25px;
   background:LightBlue;
 }
 main a {
  text-decoration:none;
- border-radius: 10px;
+ border-radius: 40px;
  border:1px solid Gold;
  padding:5px;
  background:Khaki;
