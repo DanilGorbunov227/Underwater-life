@@ -1,10 +1,11 @@
 body {
   font-family: sans-serif;
   text-align: center;
+  background:LightCyan;
 }
 header {
   font-size:20px;
-  background:SkyBlue;
+  background:PaleGreen;
 }
 header img {
   width:70px;
@@ -27,16 +28,17 @@ h2 {
 main img {
   width:450px;
   height:300px;
+  border-radius:20px;
 }
 footer {
-  background:SkyBlue;
+  background:PaleGreen;
   font-size:20px;
 }
 main p {
   font-size:27px;
-  border:2px solid MediumBlue;
+  border:2px solid RoyalBlue;
   border-radius:25px;
-  background:DeepSkyBlue;
+  background:LightBlue;
 }
 main a {
  text-decoration:none;
